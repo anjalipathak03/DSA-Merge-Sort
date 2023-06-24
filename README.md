@@ -13,3 +13,5 @@ This repository contains a C++ implementation of the Merge Sort algorithm.
    g++ merge_sort.cpp -o merge_sort
    
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or a pull request.
+
+'
